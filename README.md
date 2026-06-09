@@ -2,3 +2,5 @@
 it's a store for my learning notes
 
 I just asked some questions that interest me, then copy the answers from AI to here for records. If these are useful for you, that'll be great! 
+
+If you find some are not correct, just tell me, and I'll be appreciated for that.
